@@ -9,8 +9,7 @@
 <body>
 <form action = "Sign Up (New Customers)" method = "post" >
 <table>
-</table>
-<tr><td> First Name </td><td><input type = "text" name="fname"></td></tr>
+    <tr><td> First Name </td><td><input type = "text" name="fname"></td></tr>
 <br>
 <tr><td> Last Name </td><td><input type = "text" name="lname"></td></tr>
 <br>
@@ -24,6 +23,8 @@
 <br>
 
 <tr><td></td><td><input type = "submit" value="Sign Up"></td></tr>
+</table>
+
 
 </form>
 
